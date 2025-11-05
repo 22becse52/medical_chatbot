@@ -40,7 +40,7 @@ medical-chatbot/
 ```
 ```
 
-## 📊 Dataset Description
+##  Dataset Description
 
 The dataset includes user queries describing symptoms, mapped to corresponding diseases, precautions, and diet plans.
 
@@ -57,7 +57,7 @@ The dataset includes user queries describing symptoms, mapped to corresponding d
 |--------|------------|--------------|------------|
 | I have cough and sore throat | Common Cold | Rest, drink warm fluids | Soup, fruits, hydration |
 ```
-## 🧠 Model Overview
+##  Model Overview
 
 **Model Used:** [DistilBERT Base Uncased](https://huggingface.co/distilbert-base-uncased)
 
